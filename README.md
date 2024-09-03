@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasath Boopathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU"/>
+<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasath2004&label=Profile%20views&color=0e75b6&style=flat" alt="prasath2004" /> </p>
 
